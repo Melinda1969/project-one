@@ -1,0 +1,37 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color:rgb(213, 77, 100);
+    font-family: serif;
+    text-align: center;
+}
+h2{
+    color: rgb(27, 82, 27);
+}
+
+
+p{
+    color:rgb(27, 82, 27);
+    font-family: serif;
+}
+.salsa{
+    position: absolute;
+    right: 20px;
+    top:20px;
+    width:400px;
+    height:300px;
+}
+.img{
+    width:400px;
+    height:300px;
+}
+ul{
+    color:blueviolet;
+    font-family: serif;
+}
+ol{
+    color:blueviolet;
+font-family: serif;
+}
