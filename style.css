@@ -17,21 +17,29 @@ p{
     font-family: serif;
 }
 .salsa{
-    position: absolute;
-    right: 20px;
-    top:20px;
-    width:400px;
-    height:300px;
+  
+  display:block;
+  text-align: right;
+    
+
+
+
 }
 .img{
-    width:400px;
-    height:300px;
+    width: 250px;
+    height:250px;
 }
 ul{
+    
+    text-align:left ;
     color:blueviolet;
     font-family: serif;
+    
 }
 ol{
     color:blueviolet;
 font-family: serif;
+}
+a{
+    color: blue;
 }
