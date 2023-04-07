@@ -9,6 +9,10 @@ h1{
 }
 h2{
     color: rgb(27, 82, 27);
+    text-align: left;
+}
+li{
+    text-align: left;
 }
 
 
@@ -20,10 +24,6 @@ p{
   
   display:block;
   text-align: right;
-    
-
-
-
 }
 .img{
     width: 250px;
@@ -42,4 +42,22 @@ font-family: serif;
 }
 a{
     color: blue;
+}
+.child{
+    position:absolute;
+top:30%;
+}
+.serve{
+    position:absolute;
+    bottom:-20%;
+
+
+}
+.for{
+    position:absolute;
+    bottom:-30%;
+}
+.taste{
+    position:absolute;
+ bottom: -35%  ;
 }
